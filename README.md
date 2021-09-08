@@ -8,7 +8,5 @@
 **Projects:**
 - nothing currently
 - this list will grow as i learn more
-<p>&nbsp;</p>
 
-have a great day!
-### :)
+have a great day! 🧀
