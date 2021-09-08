@@ -9,4 +9,4 @@
 - nothing currently
 - this list will grow as i learn more
 
-have a great day! 🧀
+have a great day! :) 🧀
