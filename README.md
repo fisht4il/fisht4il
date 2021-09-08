@@ -1,4 +1,4 @@
-## Hello, and welcome to my `README.md` 📝
+### Hello, and welcome to my `README.md` 📝
 
 **Stuff about me:**
 - Interested in computers and technology
@@ -8,5 +8,7 @@
 **Projects:**
 - nothing currently
 - this list will grow as i learn more
+<p>&nbsp;</p>
 
 have a great day!
+### :)
