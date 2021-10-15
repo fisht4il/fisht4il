@@ -6,7 +6,7 @@
 - Currently an IT student at RVCC
 
 **Projects:**
-- nothing currently
+- simple portfolio website
 - this list will grow as i learn more
 
 have a great day! :) 🧀
